@@ -19,3 +19,10 @@ beginning the user will be asked to enter “Start” to run the program. Anothe
 text to encrypted which may include numbers, characters, and special characters.
 The expected output differs depending on the operation chosen but, in all cases, a simple explanation of
 the output will be conveyed beforehand any output, like; “cipher text: ' z0%[_<^$(+K6% ' “.
+## Sequence of code:
+The code runs according to the user’s preference starting with a greeting followed by a question of
+either start the program or not. After that, an if statement which asks about the type of operation
+whether it’s encryption or decryption. Moving along there is another if statement which wonders about
+type of text will it be plain text or will it be stored in a file. And then the user will decide upon the key
+type, after that the program runs smoothly executing all chosen commands and before starting again it
+requests the user to input “start” for it to continue running.
